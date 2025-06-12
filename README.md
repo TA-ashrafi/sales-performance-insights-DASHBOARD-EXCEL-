@@ -89,7 +89,7 @@ The following data cleaning and transformation tasks were performed:
 ## About the Author
 
 **Tahseen Ashrafi**  
-Email: theperfectgamer100@gmail.com  
+Email: tahseenashrafi29@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/tahseen-ashrafi-489a4825a/](https://www.linkedin.com/in/tahseen-ashrafi-489a4825a/)
 
 ---
