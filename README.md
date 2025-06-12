@@ -98,3 +98,6 @@ LinkedIn: [https://www.linkedin.com/in/tahseen-ashrafi-489a4825a/](https://www.l
 
 This project is designed to serve as a complete end-to-end demonstration of performance analysis using Excel. It combines functional analysis, automation, and interactivity, making it ideal for business analysts, Excel enthusiasts, and professionals involved in sales reporting.
 
+
+
+
